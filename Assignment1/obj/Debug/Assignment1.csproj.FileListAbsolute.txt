@@ -1,0 +1,6 @@
+C:\Users\hrvoj_000\Documents\GitHub\Assignment1\Assignment1\bin\Assignment1.dll.config
+C:\Users\hrvoj_000\Documents\GitHub\Assignment1\Assignment1\bin\Assignment1.dll
+C:\Users\hrvoj_000\Documents\GitHub\Assignment1\Assignment1\bin\Assignment1.pdb
+C:\Users\hrvoj_000\Documents\GitHub\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\hrvoj_000\Documents\GitHub\Assignment1\Assignment1\obj\Debug\Assignment1.dll
+C:\Users\hrvoj_000\Documents\GitHub\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
